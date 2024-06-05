@@ -39,9 +39,9 @@
     <img alt="Shows a flower icon" src=https://github.com/SaharM80/SaharM80/assets/130160952/85b8c425-7453-42b8-8ce9-b0bc3726634c>
   </picture>
     Contact Me
+  </h2>
     <p>Email: <a href="mailto:saharmirzapoursahar@gmail.com">saharmirzapoursahar@gmail.com</a></p>
     <p>Linkedin: <a href="mailto:saharmirzapoursahar@gmail.com">saharmirzapoursahar@gmail.com</a></p></p>
-</h2>
 </div>
 
 <div style="background-color: rgba(255, 255, 0, 0.2); padding: 20px; text-align: center; border-radius: 10px;">
