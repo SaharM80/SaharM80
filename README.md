@@ -21,7 +21,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset=https://github.com/SaharM80/SaharM80/assets/130160952/e4e86ccf-491c-41ec-82be-6558741b6d00>
     <source media="(prefers-color-scheme: light)" srcset=https://github.com/SaharM80/SaharM80/assets/130160952/e4e86ccf-491c-41ec-82be-6558741b6d00>
-    <img alt="Shows a flower icon" src=https://github.com/SaharM80/SaharM80/assets/130160952/e4e86ccf-491c-41ec-82be-6558741b6d00>
+    <img alt="Shows a mount funji icon" src=https://github.com/SaharM80/SaharM80/assets/130160952/e4e86ccf-491c-41ec-82be-6558741b6d00>
   </picture>
     What I Do
 </h2>
@@ -36,12 +36,12 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset=https://github.com/SaharM80/SaharM80/assets/130160952/85b8c425-7453-42b8-8ce9-b0bc3726634c>
     <source media="(prefers-color-scheme: light)" srcset=https://github.com/SaharM80/SaharM80/assets/130160952/85b8c425-7453-42b8-8ce9-b0bc3726634c>
-    <img alt="Shows a flower icon" src=https://github.com/SaharM80/SaharM80/assets/130160952/85b8c425-7453-42b8-8ce9-b0bc3726634c>
+    <img alt="Shows a sakura flower icon" src=https://github.com/SaharM80/SaharM80/assets/130160952/85b8c425-7453-42b8-8ce9-b0bc3726634c>
   </picture>
     Contact Me
   </h2>
     <p>Email: <a href="mailto:saharmirzapoursahar@gmail.com">saharmirzapoursahar@gmail.com</a></p>
-    <p>Linkedin: <a href="mailto:saharmirzapoursahar@gmail.com">saharmirzapoursahar@gmail.com</a></p></p>
+    <p>Linkedin: <a href="linkedin.com/in/sahar-mirzapour-455798234">Sahar Mirzapour</a></p></p>
 </div>
 
 <div style="background-color: rgba(255, 255, 0, 0.2); padding: 20px; text-align: center; border-radius: 10px;">
@@ -49,7 +49,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset=https://github.com/SaharM80/SaharM80/assets/130160952/1ec671c4-f303-4952-bf9c-d26b56372fb7>
     <source media="(prefers-color-scheme: light)" srcset=https://github.com/SaharM80/SaharM80/assets/130160952/1ec671c4-f303-4952-bf9c-d26b56372fb7>
-    <img alt="Shows a flower icon" src=https://github.com/SaharM80/SaharM80/assets/130160952/1ec671c4-f303-4952-bf9c-d26b56372fb7>
+    <img alt="Shows a sushi icon" src=https://github.com/SaharM80/SaharM80/assets/130160952/1ec671c4-f303-4952-bf9c-d26b56372fb7>
   </picture>
     Languages and Frameworks
 </h2>
