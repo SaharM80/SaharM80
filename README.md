@@ -1,7 +1,8 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=SaharM80.SaharM80&left_color=pink&right_color=yellow&left_text=Hello%20Visitor%20Number:)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=8D0A26&background=FFB9BA27&center=true&vCenter=true&random=false&width=1000&height=150&lines=Hi+there!+%F0%9F%91%8B;I'm+Sahar!)](https://git.io/typing-svg)
- 
+
+ <br/>
 <div align="center"; style="background-color: #f03c15; padding: 20px; text-align: center; border-radius: 10px;">
 <h2 style="color: red; font-weight: bold;">
   <picture>
@@ -17,6 +18,7 @@
   <p align="left"><strong>Natural Language Processing (NLP)</strong>: I find it fascinating to teach machines how to understand and generate human language.</p>
   <p align="left"><strong>Large Language Models (LLMs)</strong>: Whether it's fine-tuning pre-trained models or experimenting with novel architectures, LLMs are my playground.</p>
 </div>
+<br/>
 
 <div align="center"; style="background-color: rgba(255, 255, 0, 0.2); padding: 20px; text-align: center; border-radius: 10px;">
 <h2 style="color: #6e0f12; font-weight: bold;">
@@ -32,6 +34,7 @@
 <p align="left"><strong>Tool Tinkerer</strong>: I love trying out new tools and technologies, constantly looking for ways to optimize workflows and enhance performance.</p>
 <p align="left"><strong>Community Builder</strong>: Enjoy engaging with the data science community and participating in hackathons.</p>
 </div>
+<br/>
 
 <div align="center"> 
   <h2 style="color: #6e0f12; font-weight: bold;">
@@ -52,9 +55,10 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank" />
   </a>
 </div>
+<br/>
 
 
-<div style="background-color: rgba(255, 255, 0, 0.2); padding: 20px; text-align: center; border-radius: 10px;">
+<div align="center"; style="background-color: rgba(255, 255, 0, 0.2); padding: 20px; text-align: center; border-radius: 10px;">
 <h2 style="color: #6e0f12; font-weight: bold;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset=https://github.com/SaharM80/SaharM80/assets/130160952/1ec671c4-f303-4952-bf9c-d26b56372fb7>
@@ -67,16 +71,18 @@
     <img src="https://skillicons.dev/icons?i=python,sqlite,docker,git,java" />
 </div>
 </div>
+<br/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>
+  <picture>
+     <source media="(prefers-color-scheme: dark)" srcset=https://github.com/SaharM80/SaharM80/assets/130160952/50a13909-9029-4f46-a101-1e87c0f3da5a>
+     <source media="(prefers-color-scheme: light)" srcset=https://github.com/SaharM80/SaharM80/assets/130160952/50a13909-9029-4f46-a101-1e87c0f3da5a>
+     <img alt="Shows a sakura flower icon" src=https://github.com/SaharM80/SaharM80/assets/130160952/50a13909-9029-4f46-a101-1e87c0f3da5a>
+   </picture>
+   My Contributions
+  </h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SaharM80/SaharM80/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SaharM80/SaharM80/output/github-contribution-grid-snake.svg" />  
+ <br/>
 </div>
-
-<hr/>
-
-
-
